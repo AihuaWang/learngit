@@ -5,4 +5,4 @@ Git tracks changes of files.
 add one line.
 reating a new branch is quick.
 Creating a new branch is quick and simple.
-edit in branch dev
+edit in branch dev2
